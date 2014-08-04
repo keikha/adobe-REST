@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/DSP-Galago"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/Users/mostafakeikha/Dropbox/workspaceCIIR/DSP-Galago/lib/javax.servlet-2.5.0.v201103041518.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/mostafakeikha/PHD/tools/galago/galago/core/target/appassembler/lib/tupleflow-3.6-SNAPSHOT.jar" sourcepath="/Users/mostafakeikha/PHD/tools/galago/galago/tupleflow"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
