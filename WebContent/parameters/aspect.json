@@ -1,0 +1,7 @@
+{
+"index":"/var/lib/tomcat/indexes/adobe-twitter",
+"processingModel" : "ciir.umass.edu.sum.ProcessingOptionalWorkingSet",
+"queryType":"UnigramOWConjuctive",
+"debug":false,
+}
+~             
