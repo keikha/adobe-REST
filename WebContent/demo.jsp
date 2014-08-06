@@ -156,7 +156,11 @@ out.println();
         }
 }
 } catch (Exception e) {
-	out.println(e.getMessage());
+	out.println(e.toString());
+	e.printStackTrace();
+	// reset so the next call may	succeed
+	te = null;
+	application.setAttribute("aspectModel", te);
 }
 %>
 	</ol>
